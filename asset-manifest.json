@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/halloween/static/css/main.073c9b0a.css",
+    "main.js": "/halloween/static/js/main.5c11ecb1.js",
+    "static/js/787.7642d38b.chunk.js": "/halloween/static/js/787.7642d38b.chunk.js",
+    "static/media/logo.svg": "/halloween/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/halloween/index.html",
+    "main.073c9b0a.css.map": "/halloween/static/css/main.073c9b0a.css.map",
+    "main.5c11ecb1.js.map": "/halloween/static/js/main.5c11ecb1.js.map",
+    "787.7642d38b.chunk.js.map": "/halloween/static/js/787.7642d38b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5c11ecb1.js"
+  ]
+}
